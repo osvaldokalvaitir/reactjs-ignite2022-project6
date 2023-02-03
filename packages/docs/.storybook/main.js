@@ -15,5 +15,12 @@ module.exports = {
   },
   "features": {
     "storyStoreV7": true
+  },
+  viteFinal: (config, { configType }) => {
+    if (configType === 'PRODUCTION') {
+      config.base = '/reactjs-ignite2022-project5/'
+    }
+
+    return config
   }
 }
