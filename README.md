@@ -53,6 +53,8 @@ npm install | yarn
 npm run dev | yarn dev
 ```
 
+Click to learn more about the tools used: [GitHub Pages](https://github.com/osvaldokalvaitir/awesome/blob/main/src/websites-hosting/github-pages.md), [GitHub Actions](https://github.com/osvaldokalvaitir/awesome/blob/main/src/ci-cd/github-actions.md), [npm](https://github.com/osvaldokalvaitir/awesome/blob/main/src/runtime/nodejs/packages-managers/npm.md), [Vercel](https://github.com/osvaldokalvaitir/awesome/blob/main/src/paas/vercel.md).
+
 ## :memo: License
 
 This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
