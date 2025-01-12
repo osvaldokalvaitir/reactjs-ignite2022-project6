@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  :open_book: Ignite Design System using tsup, Storybook for React, storybook-addon-a11y and storybook-addon-a11y. Monorepo with Turborepo. CI/CD publishing to Github Pages and npm using GitHub Actions, @changesets/cli and cache with Vercel. Versioning with @changesets/cli
+  :open_book: Ignite Design System Application using tsup, Storybook for React, storybook-addon-a11y and storybook-addon-a11y. Monorepo with Turborepo. CI/CD publishing to Github Pages and npm using GitHub Actions, @changesets/cli and cache with Vercel. Versioning with @changesets/cli
 
 </p>
 
